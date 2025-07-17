@@ -21,3 +21,10 @@ To Conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 -Sales By Outlet Location
 -All Metrics By Outlet type
 
+- Dashboard Interaction <a href="https://github.com/Antara1900/Blinkit_Dashboard/blob/main/Screenshot%202025-07-17%20092857.png">View Dashboard</a>
+## Process 
+- Verify data for any missing values and anomalies and sort out the same
+- Creating pivot tables according to the KPI'S Requirements
+- Marge all pivot table into one dashboard and apply slicer to make dynamic
+## Dashboard
+- <img width="1778" height="706" alt="Screenshot 2025-07-17 092857" src="https://github.com/user-attachments/assets/aca4d79d-1bf1-4ddb-9fec-073f7339583c" />
